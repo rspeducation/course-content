@@ -1,14 +1,31 @@
 # MS Word — Index
 
-Index
+## Index
 
-1. Introduction to MS Word
-2. Interface Overview (ribbon, tabs)
-3. Creating & Saving Documents
-4. Text Formatting
-5. Styles & Templates
-6. Working with Images & Objects
-7. Tables and Columns
-8. Headers, Footers & Page Numbers
-9. Mail Merge
-10. Printing & Exporting (PDF)
+- [Introduction To MS Word](Day 1)
+- [Parts of MS Word Screen](Day 2)
+- [Creating a Document](Day 3)
+- [Moving Around The Document](Day 4)
+- [File Operations](Day 5)
+- [Editing the Text](Day 6)
+- [Formatting the Text](Day 7)
+- [Function, Icons and Shortcut Keys](Day 8)
+- [A to Z Shortcut Keys and Actions](Day 9)
+- [Paragraph Options](Day 10)
+- [Drop Cap](Day 11)
+- [Borders and Shading](Day 12)
+- [Bullets and Numbering](Day 13)
+- [Tab Stop](Day 14)
+- [Find, Replace and Go To](Day 15)
+- [Spelling and Grammar](Day 16)
+- [AutoText](Day 17)
+- [Auto Correct](Day 18)
+- [Word Count](Day 19)
+- [Text Background Watermark](Day 20)
+- [Using Breaks](Day 21)
+- [Working with Columns](Day 22)
+- [Working with Tables](Day 23)
+- [Inserting Objects](Day 24)
+- [Header/Footer](Day 25)
+- [Footnotes and Endnotes](Day 26)
+- [Printing the Document](Day 27)

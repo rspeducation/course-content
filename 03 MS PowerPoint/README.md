@@ -1,14 +1,29 @@
 # MS PowerPoint — Index
 
-Index
+## Index
 
-1. Introduction to PowerPoint
-2. Slide Types & Layouts
-3. Working with Text & Images
-4. Inserting Media (video/audio)
-5. Transitions
-6. Animations
-7. Slide Master & Templates
-8. Presenter View & Notes
-9. Exporting & Printing Handouts
-10. Presentation Best Practices
+- [Introduction](Day 1)
+- [Invoking Microsoft PowerPoint](Day 2)
+- [Getting Ahead with PowerPoint](Day 3)
+- [Slide Layouts](Day 4)
+- [Getting More Familiar with PowerPoint](Day 5)
+- [Editing a Slide](Day 6)
+- [Working with Slides](Day 7)
+- [Slide Background](Day 8)
+- [Applying Themes](Day 9)
+- [PowerPoint Views](Day 10)
+- [Working with Objects](Day 11)
+- [Inserting Bulleted or Numbered Lists in the Slide](Day 12)
+- [Inserting Clip Art Pictures into a Slide](Day 13)
+- [Charts](Day 14)
+- [Creating Tables](Day 15)
+- [Organization Chart](Day 16)
+- [Using Slide Transitions](Day 17)
+- [Animations](Day 18)
+- [Slide Show Options](Day 19)
+- [Header and Footer](Day 20)
+- [Hide or Show the Slide](Day 21)
+- [Sound, Music, and Video](Day 22)
+- [Printing](Day 23)
+- [Slide Show](Day 24)
+- [Exercises](Day 25)
